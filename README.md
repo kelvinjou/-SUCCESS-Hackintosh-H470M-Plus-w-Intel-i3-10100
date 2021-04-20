@@ -1,4 +1,4 @@
-# -SUCESS-Hackintosh-H470M-Plus-w-Intel-i3-10100
+[SUCESS] Hackintosh H470M Plus w/ Intel i3 10100
 Hackintosh Success MacOS Big Sur 
 
 specs: 
