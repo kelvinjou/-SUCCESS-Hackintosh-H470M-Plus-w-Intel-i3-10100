@@ -12,6 +12,13 @@ What's working:
 - uhd630 onboard graphics
 - shut down/sleep
 - two monitors(configured using Hackintool, must manually assign DPs and HDMIs)
-- FaceTime, Imessage(to make this work, insert your own unique serial number)
+- Bluetooth(bought a third-party Bluetooth USB drive)
+- FaceTime, Imessage*
 - All USB ports
+
+What's not working(as smoothly):
+- does take a while for hackintosh to detect second monitor. Try turning the second monitor on after logging in
+
+
+*to make this work, insert your own SystemSerialNumber, SystemUUID, and MLB in the config.plist 
   
