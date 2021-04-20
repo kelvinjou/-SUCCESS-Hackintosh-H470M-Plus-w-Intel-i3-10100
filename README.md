@@ -2,10 +2,10 @@
 Hackintosh Success MacOS Big Sur 
 
 specs: 
-  CPU: Intel i3 10100
-  motherboard: Asus Prime H470m-Plus 
-  RAM: 2 (1 pair) ddr4 T-Force Vulcan 32GB
-  SSD: M.2 970 EVO 500GB
+  - CPU: Intel i3 10100
+  - motherboard: Asus Prime H470m-Plus 
+  - RAM: 2 (1 pair) ddr4 T-Force Vulcan 32GB
+  - SSD: M.2 970 EVO 500GB
   
 What's working:
 - ALC audio 
